@@ -1,0 +1,2 @@
+# LSTM-Based-Forecasting-of-Ganga-River-Water-Quality-Parameters-near-NIT-Patna-
+study outlines the  development &amp; validation of a  (LSTM)Deep  Learning model .The results exhibited remarkable predictive performance. The model achieved high  stability in forecasting trend-based parameters, recording an exceptional Mean Absolute  Percentage Error (MAPE) of 0.48% for TDS and ~7% for Conductivity during the  2025 validation phase.
